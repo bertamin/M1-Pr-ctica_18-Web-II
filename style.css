@@ -1,0 +1,61 @@
+h1{
+font-family: Arial;
+text-align: center;
+color: #333fff;
+font-size: 20px;
+}
+h2{
+font-family: Arial;
+text-align: center;
+color: #B8B9C4;
+font-size: 15px;
+}
+#banner{
+  width: 300px;
+  height: 100px;
+  display:block;
+  margin:auto;
+}
+table, th,  tr, td{
+  border: solid green 1px;
+  font-family: Arial;
+}
+table{
+  margin: auto;
+  
+}
+tr, td{
+  padding: 10px;
+  background-color: #fff;
+}
+thead th{
+  background-color: white;
+  padding: 10px;
+}
+caption{
+ background-color: #333fff;
+ color: white;
+ font-size: 18px;
+ padding: 10px;
+}
+tfoot td{
+  background-color: #333fff;
+  color: white;
+  
+}
+a{
+  font-family: Arial;
+}
+form{
+  margin: auto;
+  width: 95%;
+}
+legend{
+  font-family: Arial;
+}
+label{
+  font-family: Arial;
+}
+p{
+font-family: Arial;
+}
